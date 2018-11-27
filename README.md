@@ -1,8 +1,3 @@
 # flutter_in_app_localization
 
-A new Flutter application.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+[documentation](https://ton.twitter.com/1.1/ton/data/dm/1067061167279943685/1067061136065871873/-x93__VL.jpg).
